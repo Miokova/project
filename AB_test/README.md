@@ -1,6 +1,6 @@
 # Приоритизация гипотез и A/B-тестирование в интернет-магазине
 
-[HTML](https://drive.google.com/file/d/1Y55xsm4v8rfOLFFYcgQsHjxeaGesjjC-/view?usp=sharing)     [ipynb](https://drive.google.com/file/d/10q77zd9RXUWpnirN5_JLrCHHU-PuKb31/view?usp=sharing)
+[HTML](https://drive.google.com/file/d/1Y55xsm4v8rfOLFFYcgQsHjxeaGesjjC-/view?usp=sharing)     [ipynb](https://github.com/VIctoriAMiokova/project/blob/main/AB_test/hypothesis_prioritization.AB_testing.ipynb)
 
 
 **Краткое описание проекта:** Необходимо приоритизировать список гипотез, выбрать наиболее перспективные, запустить A/B-тест и проанализировать результаты. Анализ результатов позволит определить, какая группа (контрольная или экспериментальная) показала лучшие результаты и, следовательно, какая гипотеза оказалась наиболее эффективной.
