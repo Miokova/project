@@ -14,4 +14,5 @@
 | | | |
 | [Рынок заведений общественного питания Москвы]|Анализ данных рынка общественного питания Москвы. Цель - систематизация процесса исследования рынка общественного питания в Москве и получение информации, которая поможет принять обоснованные решения о выборе места для инвестирования.|*python*  *pandas*  *folium*  *json*  *math*  *matplotlib*  *plotly*  *numpy*  *seaborn*  *unidecode*|
 
-![](https://tenor.com/ru/view/pedro-pascal-gif-1668216698135695868)
+
+![]([https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif](https://tenor.com/ru/view/pedro-pascal-zaddy-daddy-flirty-flirting-gif-11669015105636447111)https://tenor.com/ru/view/pedro-pascal-zaddy-daddy-flirty-flirting-gif-11669015105636447111)
