@@ -1,6 +1,6 @@
 # Исследование надежности заемщиков
 
-[HTML](https://drive.google.com/file/d/1nVJU_MeQSOTW5LlaQdL9tMRsr5DIV1Lw/view?usp=sharing)     [ipynb](https://colab.research.google.com/drive/1_6kmsEkQFdlzKqXx6t7BvJjd0my84ZAZ?usp=drive_link)
+[HTML](https://drive.google.com/file/d/1nVJU_MeQSOTW5LlaQdL9tMRsr5DIV1Lw/view?usp=sharing)     [ipynb](https://github.com/VIctoriAMiokova/project/blob/main/borrower_research/borrower_analysis.ipynb)
 
 
 **Краткое описание проекта:** Заказчик — кредитный отдел банка. В рамках проекта необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
