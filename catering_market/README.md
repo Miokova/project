@@ -4,7 +4,7 @@
 **Примечание:**
 Размер файлов превышает допустимые нормы для открытия через GitHub. Ниже приведены ссылки на страницы в Google Colab.
 
-[HTML]([https://](https://drive.google.com/file/d/1dXn1WRnmNQV5dWBfuVb7ioZqQZDrm5vR/view?usp=drive_link))     [ipynb](https://drive.google.com/file/d/1Mx7QHaXeekRP8GSm1iYQebzFDXOkmbIa/view?usp=sharing)
+[HTML](https://drive.google.com/file/d/1dXn1WRnmNQV5dWBfuVb7ioZqQZDrm5vR/view?usp=drive_link)     [ipynb](https://drive.google.com/file/d/1Mx7QHaXeekRP8GSm1iYQebzFDXOkmbIa/view?usp=sharing)
 
 
 **Краткое описание проекта:** Инвесторы из фонда «Shut Up and Take My Money» решили попробовать себя в новой области и открыть заведение общественного питания в Москве. Заказчики ещё не знают, что это будет за место: кафе, ресторан, пиццерия, паб или бар, — и какими будут расположение, меню и цены. Нам доступен датасет с заведениями общественного питания Москвы, составленный на основе данных сервисов Яндекс Карты и Яндекс Бизнес.
