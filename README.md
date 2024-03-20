@@ -13,5 +13,5 @@
 | [Исследование рынка компьютерных игр и планирование рекламных кампаний]|Анализ данных рынка компьютерных игр для планирования рекламных кампаний.|*python*  *pandas import date_range*  *numpy*  *seaborn*  *matplotlib.pyplot*  *missingno*  *scipy*  *sklearn.linear_model import LinearRegression*  *matplotlib.table import Table*  *matplotlib.ticker import FuncFormatter*  *statsmodels.linetsa.holtwinters import ExponentialSmoothing*  *sklearn.impute import SimpleImputer*  *statsmodels.api*|
 | | | |
 | [Рынок заведений общественного питания Москвы]|Анализ данных рынка общественного питания Москвы. Цель - систематизация процесса исследования рынка общественного питания в Москве и получение информации, которая поможет принять обоснованные решения о выборе места для инвестирования.|*python*  *pandas*  *folium*  *json*  *math*  *matplotlib*  *plotly*  *numpy*  *seaborn*  *unidecode*|
-| | | |
+
 ![](https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif)
