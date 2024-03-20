@@ -10,7 +10,7 @@
 | | | |
 | [Исследование надежности заемщиков]| Исследование связи между семейным положением, количеством детей и своевременным возвратом кредитов анализируя различные переменные, такие как уровень образования, тип дохода и информацию о возврате кредита.|*python*  *pandas*|
 | | | |
-| [Исследование рынка компьютерных игр и планирование рекламных кампаний]|Анализ данных рынка компьютерных игр для планирования рекламных кампаний.|*python*  *pandas*  *numpy*  *seaborn*  *matplotlib*  *missingno*  *stats*  *LinearRegression*  *Table*  *FuncFormatter*  *ExponentialSmoothing*  *SimpleImputer*  *statsmodels.api*|
+| [Исследование рынка компьютерных игр и планирование рекламных кампаний]|Анализ данных рынка компьютерных игр для планирования рекламных кампаний.|*python*  *pandas import date_range*  *numpy*  *seaborn*  *matplotlib.pyplot*  *missingno*  *scipy*  *sklearn.linear_model import LinearRegression*  *matplotlib.table import Table*  *matplotlib.ticker import FuncFormatter*  *statsmodels.linetsa.holtwinters import ExponentialSmoothing*  *sklearn.impute import SimpleImputer*  *statsmodels.api*|
 | | | |
 | [Рынок заведений общественного питания Москвы]|Анализ данных рынка общественного питания Москвы. Цель - систематизация процесса исследования рынка общественного питания в Москве и получение информации, которая поможет принять обоснованные решения о выборе места для инвестирования.|*python*  *pandas*  *folium*  *json*  *math*  *matplotlib*  *plotly*  *numpy*  *seaborn*  *unidecode*|
 | | | |
