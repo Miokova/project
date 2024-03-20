@@ -26,9 +26,9 @@
 - **numpy**
 - **seaborn**
 - **cProfile**
-- datetime.**datetime, timedelta**
-- scipy.stats.**mode**
-- **matplotlib**
+- **datetime**
+- **scipy.stats**
+- **matplotlib.pyplot**
 
 
 ## Вывод
