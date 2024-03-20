@@ -1,6 +1,6 @@
 # Проект: "Оптимизация работы и маркетинговой стратегии приложения Procrastinate Pro+"
 
-[HTML](https://drive.google.com/file/d/1bQZ_5viUrPSF7Fn1Mqi2vkDGWBP2hh9_/view?usp=sharing)     [ipynb](https://drive.google.com/file/d/1fp0c8Y6h5FjtTxwhIi_RttPdJtyvml2R/view?usp=sharing)
+[HTML](https://drive.google.com/file/d/1bQZ_5viUrPSF7Fn1Mqi2vkDGWBP2hh9_/view?usp=sharing)     [ipynb](https://github.com/VIctoriAMiokova/project/blob/main/application_optimization/Optimize_the_performance_and_marketing_strategy_of_the_application.ipynb)
 
 
 
