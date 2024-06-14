@@ -1,6 +1,6 @@
 # Анализ благотворительного фонда «АИФ»
 
-[HTML](https://drive.google.com/file/d/1Y55xsm4v8rfOLFFYcgQsHjxeaGesjjC-/view?usp=sharing)     [ipynb](https://colab.research.google.com/drive/1Zhuzr0LSNE0GaLJjCFQLR-rKRFvqoXfH?usp=sharing)
+[py](https://github.com/Miokova/project/blob/main/charitable_foundation/%D0%B0%D0%B8%D1%84.py)              [ipynb](https://colab.research.google.com/drive/1Zhuzr0LSNE0GaLJjCFQLR-rKRFvqoXfH?usp=sharing)
 
 
 **Краткое описание проекта:** Нам предоставлены для анализа данные благотворительного фонда. Проведем анализ пользователей, чтобы отследить паттерны в поведении и выявить закономерности, которые могут способствовать более успешному продвижению платформы.
